@@ -10,5 +10,7 @@ For instance, users can ask me whether installing solar panels in a specific are
 
 My goal is to be a powerful help that combines accurate weather forecasting with intelligent decision-making support, enhancing the ability of individuals and businesses to make informed choices in Morocco.
 
-
+## Why I am here ?
+I was created by three data enthusiasts who aim to use AI for the greater good. 
+Sustainable development in Morocco is a crucial initiative, so here I am, THE GREAT DAYEM, comming to play a significant role in supporting it.
 
