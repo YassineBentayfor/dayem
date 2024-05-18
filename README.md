@@ -1,4 +1,5 @@
-# <img width="202" alt="logo" src="https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/0b5097f4-cd82-4ca9-b1a3-8d19bfb48d10">                          ### Sustainable Development Assistant
+# <img width="202" alt="logo" src="https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/0b5097f4-cd82-4ca9-b1a3-8d19bfb48d10">
+### Sustainable Development Assistant
 
 ## Who am I?       
 Hello, I am DAYEM.
