@@ -1,6 +1,6 @@
-# <img width="202" alt="logo" src="https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/0b5097f4-cd82-4ca9-b1a3-8d19bfb48d10">
+# <img width="202" alt="logo" src="https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/0b5097f4-cd82-4ca9-b1a3-8d19bfb48d10">                    Generative AI application that forecasts and analyses Morocco's weather
 
-## Who am I?       Generative AI application that forecasts and analyses Morocco's weather
+## Who am I?       
 Hello, I am DAYEM.
 
 I am an innovative generative AI application designed to forecast the weather in Morocco using advanced meteorological data. I will use Machine Learning and Artificial Intelligence to provide precise weather predictions, which will be integrated with a large language model (LLM) to offer actionable recommendations based on the forecasted weather conditions.
