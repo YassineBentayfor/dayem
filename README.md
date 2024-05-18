@@ -5,9 +5,9 @@
 ## Table Of Contents
 - [Who am I?](#Who am I?)
 
--[Why I am here ?](#Why I am here ?)
+- [Why I am here ?](#Why I am here ?)
 
--[How Do I work ?](#How Do I work ?)
+- [How Do I work ?](#How Do I work ?)
 
 
 ## Who am I?       
