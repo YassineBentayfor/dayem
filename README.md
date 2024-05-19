@@ -3,7 +3,7 @@
 
 
 ## Table Of Contents
-- [Who am I?](#who-am-i)Conclusion
+- [Who am I?](#who-am-i)
 - [Why I am here?](#why-i-am-here)
 - [How Do I work?](#how-do-i-work)
 - [Research and development progress & Document Retrieval and QA System](#Research-and-development-progress-&-Document-Retrieval-and-QA-System)
@@ -156,9 +156,18 @@ Prophet is a forecasting tool developed by Facebook that is particularly good fo
 
 - Prophet managed to capture the overall trend and seasonality in the data reasonably well.
 - However, it struggled with the higher frequency variations and noise present in the weather data, leading to moderate accuracy.
-- ![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/3e766a20-aebd-4a2a-ab18-9451c6d4fc82)
-- ![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/fdf62ab4-03b5-4c7a-8be1-c3bfe3b93424)
 
+
+#### ->     Temperature Forecast
+![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/3e766a20-aebd-4a2a-ab18-9451c6d4fc82)
+
+
+#### ->     Humidity Forecast
+![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/fdf62ab4-03b5-4c7a-8be1-c3bfe3b93424)
+
+
+#### ->     Precipitation Forecast
+![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/f22147c2-65f7-46f3-bf8f-bc25f8af08ef)
 
 
 ### Conclusion
@@ -183,8 +192,9 @@ TSMixer is a deep learning-based approach specifically designed for time series 
 - TSMixer showed promise in capturing complex patterns in the data, thanks to its deep learning architecture.
 - Despite this, the model was prone to overfitting, and the computational cost was high.
 - The predictions were inconsistent, particularly for longer-term forecasts.
-- ![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/853c9492-9e3c-4b27-9d01-8be09ffca5a9)
-- ![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/f4538b1f-a0be-4381-955f-9660d6f61e0f)
+![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/853c9492-9e3c-4b27-9d01-8be09ffca5a9)
+![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/f4538b1f-a0be-4381-955f-9660d6f61e0f)
+![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/f26130f5-f39d-4012-85db-87e7a7f98166)
 
 
 
@@ -214,7 +224,6 @@ ARIMA (AutoRegressive Integrated Moving Average) is a classical statistical meth
 ### Conclusion
 
 ARIMA outperformed both Prophet and TSMixer in terms of accuracy and reliability. Its straightforward implementation and lower computational cost made it the most practical choice for our project.
-
 
 
 
