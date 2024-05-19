@@ -1,1 +1,1 @@
-Contains the files used ifor the knowledge base
+Contains the files used for the knowledge base
