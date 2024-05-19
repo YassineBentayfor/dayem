@@ -28,7 +28,31 @@ I was created by three data enthusiasts who aim to use AI for the greater good. 
 
 ![WhatsApp Image 2024-05-19 à 02 46 44_88ad2d6e](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/be1bc58e-0126-4773-b25d-7c6064f1cc1a)
 
-# 
+### Document Processing and Question-Answering:
+  The system starts by loading a set of documents related to weather, crop growth, agriculture, etc.
+  These documents are processed using a document processing pipeline, which involves:
+      Splitting the documents into chunks.
+      Generating embeddings for each chunk using a pre-trained language model (LLM) such as HuggingFace.
+      Creating a vector store for efficient similarity searching using FAISS.
+      Setting up a retriever for question-answering based on user queries.
+        When a user enters a query related to weather, crop growth, or agriculture, the system retrieves relevant documents using the retriever component.
+        The top relevant documents are selected based on their similarity to the query.
+### Forecasting:
+  The system also includes a forecasting component that predicts weather conditions, including humidity, precipitation, and temperature.
+  These forecasts are generated using time series forecasting models such as Prophet, TSMixer, and ARIMA.
+  The forecasts are injected into the language model as prompts during text generation.
+
+### Text Generation and Recommendations:
+  The language model (LLM) receives the combination of user queries and forecasted weather conditions as prompts.
+  The LLM generates text based on these prompts, providing recommendations on various matters related to agriculture.
+  The recommendations may include advice on crop selection, water management strategies, and other agricultural practices.
+  The engineer or user can use these recommendations to make informed decisions regarding crop cultivation and agricultural management.
+
+
+
+https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/3ae81646-4e8b-4cb4-b888-dcd0abb80ca7
+
+
 # Research and development progress & Document Retrieval and QA System
 
 This project implements a document retrieval and question-answering (QA) system using PDF documents. The system evolves through several stages, progressively improving its capabilities. Below is a detailed description of the project's evolution, including the choices made and their justifications.
@@ -227,6 +251,17 @@ ARIMA (AutoRegressive Integrated Moving Average) is a classical statistical meth
 ### Conclusion
 
 ARIMA outperformed both Prophet and TSMixer in terms of accuracy and reliability. Its straightforward implementation and lower computational cost made it the most practical choice for our project.
+
+# Work Presentation
+It can aslo be found through this Canva link:
+https://www.canva.com/design/DAGFoiaS-4Y/MJroK23S0Q-lHOaw4vYnQQ/edit?utm_content=DAGFoiaS-4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
+
+[Green and white Sustainability modern presentation.pdf](https://github.com/arthur-samuel-thinkai/dayem/files/15368354/Green.and.white.Sustainability.modern.presentation.pdf)
+
+
+
+
 
 
 
