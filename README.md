@@ -163,11 +163,14 @@ Prophet is a forecasting tool developed by Facebook that is particularly good fo
 
 
 #### ->     Humidity Forecast
-![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/fdf62ab4-03b5-4c7a-8be1-c3bfe3b93424)
+![WhatsApp Image 2024-05-19 at 07 13 19_967075e8](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/511992fb-29a2-4316-9eb3-60d0a792d150)
+
 
 
 #### ->     Precipitation Forecast
-![image](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/f22147c2-65f7-46f3-bf8f-bc25f8af08ef)
+![WhatsApp Image 2024-05-19 at 07 13 42_3ea9d326](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/d1fa7de0-00f2-4454-9c8b-af1ebefeb060)
+
+
 
 
 ### Conclusion
