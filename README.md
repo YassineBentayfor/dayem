@@ -258,9 +258,8 @@ It can aslo be found through this Canva link:
 https://www.canva.com/design/DAGFoiaS-4Y/MJroK23S0Q-lHOaw4vYnQQ/edit?utm_content=DAGFoiaS-4Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 
-[Green and white Sustainability modern presentation.pdf](https://github.com/arthur-samuel-thinkai/dayem/files/15368354/Green.and.white.Sustainability.modern.presentation.pdf)
 
-
+[Green and white Sustainability modern presentation.pdf](https://github.com/arthur-samuel-thinkai/dayem/files/15368372/Green.and.white.Sustainability.modern.presentation.pdf)
 
 
 
