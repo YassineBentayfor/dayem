@@ -3,12 +3,16 @@
 
 
 ## Table Of Contents
-- [Who am I?](#who-am-i)
+- [Who am I?](#who-am-i)Conclusion
 - [Why I am here?](#why-i-am-here)
 - [How Do I work?](#how-do-i-work)
+- [Research and development progress & Document Retrieval and QA System](#Research-and-development-progress-&-Document-Retrieval-and-QA-System)
+- [Series Forecasting Approaches for Weather Prediction](#Series-Forecasting-Approaches-for-Weather-Prediction)
+- [Conclusion](#Conclusion)
+  
 
 
-## Who am I?       
+# Who am I?       
 Hello, I am DAYEM.
 
 I am an innovative generative AI application designed to forecast the weather in Morocco using advanced meteorological data. I utilize Machine Learning and Artificial Intelligence to provide precise weather predictions, which are integrated with a large language model (LLM) to offer actionable recommendations based on the forecasted weather conditions.
@@ -17,10 +21,10 @@ For instance, users can ask me whether installing solar panels in a specific are
 
 My goal is to be a powerful tool that combines accurate weather forecasting with intelligent decision-making support, enhancing the ability of individuals and businesses to make informed choices in Morocco.
 
-## Why I am here?
+# Why I am here?
 I was created by three data enthusiasts who aim to use AI for the greater good. Sustainable development in Morocco is a crucial initiative, so here I am, THE GREAT DAYEM, ready to play a significant role in supporting it.
 
-## How Do I work?
+# How Do I work?
 
 ![WhatsApp Image 2024-05-19 à 02 46 44_88ad2d6e](https://github.com/arthur-samuel-thinkai/dayem/assets/170200420/be1bc58e-0126-4773-b25d-7c6064f1cc1a)
 
