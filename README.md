@@ -262,7 +262,12 @@ https://www.canva.com/design/DAGFoiaS-4Y/MJroK23S0Q-lHOaw4vYnQQ/edit?utm_content
 [Green and white Sustainability modern presentation.pdf](https://github.com/arthur-samuel-thinkai/dayem/files/15368372/Green.and.white.Sustainability.modern.presentation.pdf)
 
 
+# Team members:
+Yassine BENTAYFOR
 
+Lamiaa ELOUATILI
+
+Meryem JELFA
 
 
 
